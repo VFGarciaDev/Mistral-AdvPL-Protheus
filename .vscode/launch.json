@@ -1,0 +1,71 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "TOTVS Language Debug",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\TOTVS\\Protheus\\Protheus\\bin\\smartclient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "SIGAMDI"
+		},
+		{
+			"label": "APSDU"
+		},
+		{
+			"label": "SIGACFG"
+		},
+		{
+			"label": "u_SZMOT03"
+		},
+		{
+			"args": [],
+			"label": "u_SZMOT03"
+		},
+		{
+			"label": "u_SZMOT05"
+		},
+		{
+			"args": [],
+			"label": "U_zRel01"
+		},
+		{
+			"args": [],
+			"label": "U_szmot06"
+		},
+		{
+			"args": [],
+			"label": "U_SZREL03"
+		},
+		{
+			"label": "U_SZREL04"
+		},
+		{
+			"args": [],
+			"label": "U_GATZ2"
+		},
+		{
+			"args": [],
+			"label": "U_SZREL04"
+		},
+		{
+			"args": [],
+			"label": "U_ZREL04"
+		},
+		{
+			"label": "U_ZREL14"
+		},
+		{
+			"label": "U_SZREL01"
+		}
+	],
+	"lastProgramExecuted": "U_SZREL01",
+	"lastProgramArguments": []
+}
